@@ -1,0 +1,9 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.idea",
+    "\\deploy"
+  ],
+  "SelectedNode": "\\generate_tfrecord.py",
+  "PreviewInSolutionExplorer": false
+}
