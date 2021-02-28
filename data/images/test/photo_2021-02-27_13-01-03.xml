@@ -1,0 +1,26 @@
+<annotation>
+	<folder>raw</folder>
+	<filename>photo_2021-02-27_13-01-03.jpg</filename>
+	<path>C:\Users\Alicia teo\PycharmProjects\object_detection_demo\data\raw\photo_2021-02-27_13-01-03.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>slopes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>189</xmin>
+			<ymin>415</ymin>
+			<xmax>1255</xmax>
+			<ymax>861</ymax>
+		</bndbox>
+	</object>
+</annotation>
